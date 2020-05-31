@@ -1,0 +1,63 @@
+head{
+
+}
+
+body{
+    background-color: rgb(32, 32, 10);
+    color: rgb(247, 235, 235);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    align-items: center;
+    display:
+    
+    flex;
+    justify-content: center;
+}
+
+.lap{
+    width: 100px;
+    height: 60px;
+    padding: 10px 40px;
+
+}
+
+.hello{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+header div{
+    display: flex;
+}
+ /* no pude hacer que mis redes esten a la derecha :c */
+ /* no se que hice mal */
+.red_social{
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    display:flex;
+}
+
+main div {
+    display: flex;
+    margin: 10px;
+}
+
+#id_welcome{
+    width:290px;
+    padding: 20px;
+    background-color: rgb(134, 9, 9);
+}
+
+#id_skill{
+    width: 800px;
+    padding: 30px 25px;
+    background-color: rgba(255,255,255,0.8);
+    color: seagreen;
+
+footer {
+    text-align: center;
+}
